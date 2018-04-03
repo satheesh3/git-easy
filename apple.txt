@@ -2,3 +2,5 @@ Hello World
 Apple
 Blue
 Cat
+Dog
+Ear
